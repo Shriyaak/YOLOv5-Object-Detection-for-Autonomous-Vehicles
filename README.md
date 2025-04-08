@@ -37,6 +37,6 @@ pip install -r requirements.txt
 
 Optional: Use a GPU with CUDA support for accelerated training
 
-<h3> Results</h3>
+<h3> Results:</h3>
 YOLOv5 fine-tuned with pseudo-labels achieved an mAP@0.5 of 0.755. Strong performance was seen in detecting Cars and Trucks, while Van and Misc remained more challenging. Validation accuracy reached 0.993 mAP@0.5. Spatial attention maps improved interpretability, though technical issues limited the integration of contrastive and consistency regularization.
 
