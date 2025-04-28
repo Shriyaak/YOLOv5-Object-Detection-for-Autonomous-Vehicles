@@ -1,3 +1,6 @@
+![dashboard](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/d9ae6e20ad781c7ebf70764e19ecfeed64ceb1ab/bank.jpg)
+
+
 ## Overview: 
 Computer vision models usually need a ton of labeled data, right? But creating those labels takes a lot of time and manual effort—which just makes the whole system heavily dependent on human input again. This project is my take on solving that issue.
 Instead of relying fully on labeled data, I’ve used semi-supervised learning to train a model for multi-object detection in autonomous driving. The goal is to reduce the labeling workload while still getting solid results.
