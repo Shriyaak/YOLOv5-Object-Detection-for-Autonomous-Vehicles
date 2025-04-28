@@ -1,4 +1,4 @@
-![dashboard](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/d9ae6e20ad781c7ebf70764e19ecfeed64ceb1ab/bank.jpg)
+![dashboard](https://github.com/Shriyaak/YOLOv5-Object-Detection-for-Autonomous-Vehicles/blob/d9fa0f8061ff9035ba2bfe6c508c3b5f6e213963/yolo.png)
 
 
 ## Overview: 
